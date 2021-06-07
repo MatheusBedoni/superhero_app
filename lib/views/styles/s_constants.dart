@@ -1,15 +1,7 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 
-class LayoutConstants{
-  static final String backgroundImage = 'imagens/background.png';
-  static final String logo_home = 'imagens/logo_home.png';
-  static final String logo = 'imagens/logo.png';
-  static final String email = 'email';
-  static final String senha = 'senha';
-  static final String login = 'entrar';
-  static final String title = 'Seja bem vindo ao empresas';
-}
+
 
 
 class ColorsApp{
