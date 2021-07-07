@@ -41,14 +41,7 @@ class DecorationConstants{
     ],
 
   );
-  static final BoxDecoration decorationHome = BoxDecoration(
 
-      image: DecorationImage(
-          fit: BoxFit.fill,
-          image: AssetImage(
-              LayoutConstants.backgroundImage)
-      )
-  );
    static  BoxDecoration  decorationImgHero(String img){
        return BoxDecoration(
          image: DecorationImage(
