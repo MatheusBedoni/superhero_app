@@ -53,7 +53,7 @@ class DecorationConstants{
          borderRadius: BorderRadius.circular(20),
          boxShadow: [
            BoxShadow(
-             color: Colors.black12,
+             color: Colors.black26,
              blurRadius: 4,
              offset: Offset(2, 4), // Shadow position
            ),
